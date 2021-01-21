@@ -1,5 +1,3 @@
-# Pre-commit Usage
-
 ## Install
 
 Pre-commit requires three things to work:
