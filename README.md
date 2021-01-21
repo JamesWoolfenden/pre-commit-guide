@@ -13,6 +13,7 @@ Pre-commit install
 
 - create the hooks config
   In the root of repository is the config **.pre-commit-config.yaml**, this contains the config of which hooks, version and how they should be run.
+  <https://raw.githubusercontent.com/bridgecrewio/terraform-aws-bridgecrew-remediation/main/.pre-commit-config.yaml>
 - install the config/hooks for the local repository
 
   ```shell
